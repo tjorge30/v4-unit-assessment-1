@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    height: 20vh;
+    margin: 0px;
+    padding: 0px;
+    background-color: coral;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+h1 {
+    margin: 0px;
+    padding: 50px;
+    display: inline-block;
+}
+
+h2 {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+    word-spacing: 70px;
+}
+
+.row {
+    height: 40vh;
+    border-color: black;
+    border-style: dotted;
+    margin: 30px;
+   }
+
+h3 {
+    margin: 0px;
+    padding: 30px 0px 0px 20px;
+    
+}
+
+.img1 {
+    width: 300px;
+    float: left;
+}
+
+.img2 {
+    width: 200px;
+    float: right;
+}
+
+p {
+    font-size: 1em;
+    padding-left: 15px;
+}
+
+
+
+
+
